@@ -1,0 +1,16 @@
+{
+  "name": "Sd organizer",
+  "short_name": "Sd organizer",
+  "description": "Una aplicación web para gestionar flujos de trabajo de pedidos con tres niveles de usuario.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#1f2937",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
