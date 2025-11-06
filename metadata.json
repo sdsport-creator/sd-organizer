@@ -1,0 +1,5 @@
+{
+  "name": "Sd organizer",
+  "description": "Una aplicación web para gestionar flujos de trabajo de pedidos con tres niveles de usuario: administrador, diseñador y productor. Permite la creación de pedidos, el seguimiento del estado de los artículos con códigos de color y la asignación de fechas clave del proceso.",
+  "requestFramePermissions": []
+}
